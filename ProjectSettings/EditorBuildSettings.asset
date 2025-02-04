@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newMenu.unity
+    guid: 241b99d64d4be4267a58848053e55542
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel.unity
+    guid: 10ddba516cb9f49659904a039dd241a2
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel 1.unity
+    guid: 8fc8f5dcc3f204401971378e5868947e
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel 2.unity
+    guid: 78a822ecd8e6e41dd9e4530534a3bddb
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel 3.unity
+    guid: cede2338a76a9487faf4e38fa3ab22d0
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel 4.unity
+    guid: 158ce1675425647fc81d5820570fad48
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel 5.unity
+    guid: 9499e2652af754104ab2c426728acd5e
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
